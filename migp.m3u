@@ -14,6 +14,16 @@ http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 https://tv.iill.top/4k/cctv16
 #EXTINF:-1 group-title="cctv-4k-「IPV6」",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕体育4K
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕体育4K-2
+http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕精彩足球
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播4K-1
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播4K-2
+http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播-1
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播-2
