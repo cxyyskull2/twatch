@@ -24,10 +24,6 @@ http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕精彩足球
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",哒啵电竞
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
-#EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",哒啵赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕直播4K-2
