@@ -30,10 +30,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://tv.iill.top/4k/cctv16
 #EXTINF:-1 group-title="cctv-4k-「IPV6」",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 group-title="无台标电影-「IPV6」",无台标电影
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-#EXTINF:-1 group-title="无台标电影-「IPV6」",无台标电影
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
 #EXTINF:-1,咪咕运动「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1,咪咕直播 𝟙「IPV6」
