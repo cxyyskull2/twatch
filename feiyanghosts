@@ -19,7 +19,7 @@
 # localhost name resolution is handled within DNS itself.
 	cache.ott.ystenlive.itv.cmvideo.cn       feiyangdigital.tg.ystenlive.ottdns.com
 	cache.ott.bestlive.itv.cmvideo.cn        feiyangdigital.tg.bestlive.ottdns.com
-    cache.ott.wasulive.itv.cmvideo.cn        feiyangdigital.tg.wasulive.ottdns.com
-	cache.ott.fifalive.itv.cmvideo.cn        feiyangdigital.tg.fifalive.ottdns.com
-	cache.ott.hnbblive.itv.cmvideo.cn        feiyangdigital.tg.hnbblive.ottdns.com
-	zqhswlive.itv.cmvideo.cn                 feiyangdigital.tg.zqhswlive.ottdns.com
+        cache.ott.wasulive.itv.cmvideo.cn       feiyangdigital.tg.wasulive.ottdns.com
+	cache.ott.fifalive.itv.cmvideo.cn          feiyangdigital.tg.fifalive.ottdns.com
+	cache.ott.hnbblive.itv.cmvideo.cn      feiyangdigital.tg.hnbblive.ottdns.com
+	zqhswlive.itv.cmvideo.cn                     feiyangdigital.tg.zqhswlive.ottdns.com
